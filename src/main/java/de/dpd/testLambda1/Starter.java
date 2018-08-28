@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 
 public class Starter {
    
-   /**
+   /**test
     * 1: Externalisierung des Lamda's in eigene Methode
     * 2: Zuweisung des Lamdas zu einem Functional Interface, anschließender Aufruf
     * 3: Stream, einfach Bsp.
